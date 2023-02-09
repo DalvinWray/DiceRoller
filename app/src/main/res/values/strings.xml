@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="sum_of_roll">Sum of Roll:</string>
+    <string name="done_by_dalvin_wray">Done By: Dalvin Wray</string>
+</resources>
